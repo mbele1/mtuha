@@ -1,4 +1,5 @@
-﻿[
+{ "forms":
+[
     {
         "name": "Acute Flaccid Paralysis",
         "code": "OPD1",
@@ -6,13 +7,6 @@
         "active": "TRUE",
         "sortOrder": "1",
         "formType": "OPD" 
-    },
-    {
-        "name": "Cholera",
-        "code": "OPD2",
-        "id": "null",
-        "active": "TRUE",
-        "sortOrder": "2",
-        "formType": "OPD" 
     } 
 ]
+}
